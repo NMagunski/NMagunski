@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NMagunski
 - 👀 I’m interested in automation testing
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 NMagunski/NMagunski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
